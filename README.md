@@ -1,0 +1,1 @@
+Simple web page repo to test git functionalities
